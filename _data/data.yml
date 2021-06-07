@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Benjamin Faguer   
     tagline: Data Manager
-    avatar: Profile_picture.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: Profile_picture100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: benjamin.faguer@tutanota.com
