@@ -47,16 +47,25 @@ experiences:
       time: April 2020 - Present
       company: London School of Hygiene and Tropical Medicine, Remote
       details: |
-           - Consultant Data manager on the [DRC-EB-001 Ebola vaccine trial](https://clinicaltrials.gov/ct2/show/NCT04152486) taking place in the Democratic Republic of the Congo.
-           - Working on the query management system in Stata.
-           - Producing analysis tables in Stata.
+           - Consultant Data manager on the [DRC-EB-001](https://clinicaltrials.gov/ct2/show/NCT04152486) Ebola vaccine trial taking place in the Democratic Republic of the Congo.
+           - Creation of programs and maintenance of a GCP-compliant query management system in Stata. 
+             This system inter-operates with REDCap and data collected in Open Data Kit.
+           - Programming of automated analysis tables for the Data and Safety Monitoring Board.
     - role: Data Manager | Research Assistant
       time: February 2017 - Present
       company: Nagasaki University, School of Tropical Medicine and Global Health, Japan
       details: |
-          - Lead Data Manager on the St-ATT project in the Philippines.
-          - Design of data collection tools using Open Data Kit and REDCap.
-          - Making maps and figures for publications.
+          - Lead Data Manager on the [St-ATT](https://www.isrctn.com/ISRCTN16347615) study in the Philippines.
+          - GCP-compliant data management for several multi-centre studies in the Philippines, 
+            including an ongoing large cohort study of persons with TB enrolled in TB DOTS clinics in urban and rural settings.
+          - Designing databases, creation of automated data management processes, and production of automated real-time data monitoring reports.
+          - Daily use of Open Data Kit, Stata and Python. Regular use of R to produce analytical visual representation of data.
+          - Writing technical documentations and SOPs for internal use.
+          - Using Geographical Information Systems to create maps for publications and research teams.
+          - Teaching theIntroduction to Statamodule for Masters students. 
+            Facilitating Statistics and Statistical Computing classes for Masters students.
+          - Tutoring Masters students in electronic data capture using Open Data Kit and Data Management using Stata and R.
+          - Supervising Masters students and training field workers for data collection in Burundi (2018) and Ghana (2019).
 education:
     - degree: MA History major, Cultural Heritage Valorisation and Local Development - First Class Honours
       university: Université du Maine - Le Mans (France)
