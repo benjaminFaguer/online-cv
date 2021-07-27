@@ -57,10 +57,12 @@ experiences:
            - Creation of programs and maintenance of a GCP-compliant query management system in Stata. 
              This system inter-operates with REDCap and data collected in Open Data Kit.
            - Programming of automated analysis tables for the Data and Safety Monitoring Board.
+           - Clinical and safety databases reconciliation.
     - role: Data Manager | Research Assistant
       time: February 2017 - Present
       company: Nagasaki University, School of Tropical Medicine and Global Health, Japan
       details: |
+          - Data Manager on the SAMPA project, an international cooperation between six research teams in four countries.
           - Lead Data Manager on the [St-ATT](https://www.isrctn.com/ISRCTN16347615) study in the Philippines.
           - GCP-compliant data management for several multi-centre studies in the Philippines, 
             including an ongoing large cohort study of persons with TB enrolled in TB DOTS clinics in urban and rural settings.
